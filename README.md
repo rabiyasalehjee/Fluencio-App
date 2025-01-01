@@ -1,6 +1,6 @@
 # Fluencio
 
-**Fluencio** is a mobile application designed to help users improve their public speaking skills by providing personalized, real-time feedback. It acts as a speech coach, detecting filler words, analyzing speech pace, and measuring pitch, helping users refine their verbal communication for presentations, interviews, and public speaking.
+**Fluencio** is a mobile application designed to help users improve their public speaking skills by providing personalized, real-time feedback. It acts as a speech coach, detecting filler words, analyzing speech pace, measuring pitch, and helping users refine their verbal communication for presentations, interviews, and public speaking.
 
 ## Key Features
 
@@ -30,7 +30,7 @@
 
 ## Purpose
 
-Fluencio is aimed at helping users overcome their fear of public speaking and improve their communication skills through consistent practice and feedback. Whether preparing for a presentation, an interview, or simply working on improving speech fluency, Fluencio offers an accessible and affordable solution.
+Fluencio is aimed at helping users overcome their fear of public speaking and improve their communication skills through consistent practice and feedback. Whether preparing for a presentation, an interview or simply working on improving speech fluency, Fluencio offers an accessible and affordable solution.
 
 ## Target Audience
 
@@ -43,3 +43,6 @@ Fluencio is aimed at helping users overcome their fear of public speaking and im
 ---
 
 Fluencio is the perfect app for anyone looking to develop effective communication skills, boost confidence, and improve their speaking abilities.
+
+![Fluencio App Screenshot](https://github.com/rabiyasalehjee/Fluencio-App/raw/main/app_screenshots/Fluencio%20-%20App.png)
+
